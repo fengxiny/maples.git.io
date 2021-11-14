@@ -1,20 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my channel
 ## 冯心妍
 
 西南交通大学研究生在读
 
 专业：交通运输工程
 
-导师：王恪铭 
+导师：[王恪铭](https://faculty.swjtu.edu.cn/KeMing_Wang/zh_CN/index.htm) 
 
 研究方向：形式化验证
 
 
-You can use the [editor on GitHub](https://github.com/fengxiny/maples.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Ability
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
