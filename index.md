@@ -1,10 +1,10 @@
 ## Welcome to My Channel
 ## 冯心妍
 
-#### 西南交通大学研究生在读  
-#### 专业：交通运输工程  
-#### 导师：[王恪铭](https://faculty.swjtu.edu.cn/KeMing_Wang/zh_CN/index.htm)  系统可信性自动验证国家地方联合工程实验室  
-#### 研究方向：形式化验证  
+#### 西南交通大学研究生在读
+#### 专业：交通运输工程
+#### 导师：[王恪铭](https://faculty.swjtu.edu.cn/KeMing_Wang/zh_CN/index.htm)  系统可信性自动验证国家地方联合工程实验室
+#### 研究方向：形式化验证
 
 
 
