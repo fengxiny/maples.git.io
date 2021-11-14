@@ -1,4 +1,4 @@
-## Welcome to my channel
+## Welcome to My Channel
 ## 冯心妍
 
 西南交通大学研究生在读
@@ -10,9 +10,12 @@
 研究方向：形式化验证
 
 
-### Ability
+## Ability
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| 一个普通标题 | 一个普通标题 | 一个普通标题 |
+| ------ | ------ | ------ |
+| 短文本 | 中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本 | 中等文本 |
 
 ```markdown
 Syntax highlighted code block
@@ -32,12 +35,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fengxiny/maples.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
