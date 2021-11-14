@@ -1,6 +1,13 @@
 ## Welcome to My Channel
 ## 冯心妍
-西南交通大学研究生在读
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="/IMG_5224.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 专业：交通运输工程
 
