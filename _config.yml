@@ -1,5 +1,10 @@
 theme: jekyll-theme-minimal
+
+
 title: 冯心妍
+logo: ![Image text](https://github.com/fengxiny/maples.git.io/blob/gh-pages/IMG_5224.jpg)
+
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
